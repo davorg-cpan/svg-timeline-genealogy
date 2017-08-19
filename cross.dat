@@ -1,0 +1,106 @@
+# Generation 1
+# 1 Person
+1,David Cross,1962
+
+# Generation 2
+# 2 Parents
+2,John Cross,1940,2017
+3,Jean Sowman,1940
+
+# Generation 3
+# 4 Grandparents
+4,James Cross,1910,1970
+5,Ivy Clarke,1914,1992
+# --
+## 6 Missing [ Father of Jean Sowman ]
+7,Cecilia Sowman,1922,2015
+
+# Generation 4
+# 8 Gt Grandparents
+8,Albert Cross,1874,1956
+9,Elizabeth Hazleton,1874,1955
+# --
+10,George Clarke,1889, 1966
+11,Lily Hammond,1886,1963
+# --
+## 12 Missing [ Paternal Grandfather of Jean Sowman ]
+## 13 Missing [ Paternal Grandmother of Jean Sowman ]
+# --
+14,Robert Sowman,1896,1983
+15,Agnes Turpin,1902,1997
+
+# Generation 5
+# 16 Gt Gt Grandparents
+16,James Cross,1844,1884
+17,Sarah Jane Turpin,1845,1910
+# --
+18,William Hazleton,1840,1923
+19,Charlotte Morris,1844,1923
+# --
+20,Isaac Clarke,1848,1911
+21,Maria Newman,1863,1930
+# --
+## 22 Missing [ Father of Lily Hammond ]
+23,Louisa Hammond,1869,1930
+# --
+## 24 Missing [ Paternal Gt Grandfather of Jean Sowman ]
+## 25 Missing [ Paternal Gt Grandmother of Jean Sowman ]
+# --
+## 26 Missing [ Paternal Gt Grandfather of Jean Sowman ]
+## 27 Missing [ Paternal Gt Grandmother of Jean Sowman ]
+# --
+28,Robert Sowman,1874,1901
+29,Harriet Gant,1876,1923
+# --
+30,Albert Turpin,1868,1939
+31,Mary Maud Hyam,1871,1955
+
+# Generation 6
+# 32 Gt Gt Grandparents
+32,Thomas Cross,1814,1876
+33,Lucy Curtis,1816,1873
+# --
+34,William Turpin,1813,1874
+35,Sarah Clements,1813,1895
+# --
+36,William Hazleton,1814,1889
+37,Elizabeth Frances,1818,1892
+# --
+38,Samuel Morris,1814,1890
+39,Susan Harbridge,1815,1893
+# --
+40,George Clarke,1814,1880
+41,Emily Lewis,1814,1880
+# --
+## 42 Missing [ Father of Maria Newman ]
+43,Esther Newman,1833,1891
+# --
+## 44 Missing [ Paternal Grandfather of Lily Hammond ]
+## 45 Missing [ Paternal Grandmother of Lily Hammond ]
+# --
+46,William Hammond,1843,1911 # death date unknown
+47,Sarah Dew,1840,1907
+# --
+## 48 Missing [ Paternal Gt Gt Grandfather of Jean Sowman ]
+## 49 Missing [ Paternal Gt Gt Grandmother of Jean Sowman ]
+# --
+## 50 Missing [ Paternal Gt Gt Grandfather of Jean Sowman ]
+## 51 Missing [ Paternal Gt Gt Grandmother of Jean Sowman ]
+# --
+## 52 Missing [ Paternal Gt Gt Grandfather of Jean Sowman ]
+## 53 Missing [ Paternal Gt Gt Grandmother of Jean Sowman ]
+# --
+## 54 Missing [ Paternal Gt Gt Grandfather of Jean Sowman ]
+## 55 Missing [ Paternal Gt Gt Grandmother of Jean Sowman ]
+# --
+## 56 Missing [ Father of Robert Sowman ]
+57,Sarah A Sowman,1845,1905
+# --
+58,William Gant,1851,1916
+59,Emily Sowman,1854,1893
+# --
+60,William Turpin,1834,1901 # death date unknown
+61,Caroline Rush,1835,1901 # death date unknown
+# --
+62,Walter Hyam,1841,1908
+63,Emma Gazzard,1849,1918
