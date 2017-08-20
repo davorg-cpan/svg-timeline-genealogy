@@ -6,19 +6,15 @@ use 5.010;
 
 use SVG::Timeline::Genealogy;
 
-my $data = shift || die;
-
 my $tree = SVG::Timeline::Genealogy->new;
 
-open my $data_fh, '<', $data or die $!;
-
 my @cols = qw[ahnen text start end];
-while (<$data_fh>) {
+while (<>) {
   chomp;
   my ($rec) = split /\s*#/;
   next unless defined $rec and $rec =~ /\W/;
   my %rec;
-  @rec{@cols} = split /\s*,\s*/, $rec;
+  @rec{@cols} = split /\s*\t\s*/, $rec;
   delete $rec{end} unless defined $rec{end};
   $tree->add_person(\%rec);
 }
