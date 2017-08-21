@@ -14,6 +14,7 @@ WriteMakefile(
     'List::Util' => 0,
     Carp => 0,
     'Genealogy::Ahnentafel' => 0,
+    'SVG::Timeline' => 0,
   },
   PREREQ_PM => {
     SVG => 0,
@@ -21,6 +22,7 @@ WriteMakefile(
     'List::Util' => 0,
     'Genealogy::Ahnentafel' => 0,
     Carp => 0,
+    'SVG::Timeline' => 0,
   },
   META_MERGE => {
     'meta-spec' => { version => 2 },
