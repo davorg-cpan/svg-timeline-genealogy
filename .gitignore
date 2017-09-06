@@ -3,3 +3,5 @@ Makefile
 SVG-Timeline-Genealogy-*.tar.gz
 SVG-Timeline-Genealogy-*/
 *.svg
+blib/
+pm_to_blib
