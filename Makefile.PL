@@ -29,11 +29,11 @@ WriteMakefile(
     resources => {
       repository => {
         type => 'git',
-        url => 'git://github.com/davorg/svg-timeline-genealogy.git',
-        web => 'https://github.com/davorg/svg-timeline-genealogy',
+        url => 'git://github.com/davorg-cpan/svg-timeline-genealogy.git',
+        web => 'https://github.com/davorg-cpan/svg-timeline-genealogy',
       },
       bugtracker => {
-        web => 'https://github.com/davorg/svg-timeline-genealogy/issues',
+        web => 'https://github.com/davorg-cpan/svg-timeline-genealogy/issues',
       }
     },
   },
